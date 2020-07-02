@@ -18,3 +18,4 @@
 
 ## Лицензия
 №10938475579
+<script src="https://localhost/neuro.sdk.min.js"></script>
